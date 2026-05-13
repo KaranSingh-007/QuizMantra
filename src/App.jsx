@@ -80,7 +80,7 @@ export default function App() {
     formData.append("num_questions", String(numQuestions));
 
     try {
-      const res = await fetch("http://localhost:5000/upload", {
+      const res = await fetch("https://quizmantra.onrender.com/upload", {
         method: "POST",
         body: formData,
       });
