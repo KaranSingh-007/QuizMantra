@@ -1,1 +1,5 @@
 QuizMantra is a full-stack AI-powered quiz generation platform that transforms PDF and DOCX study materials into interactive timed MCQ quizzes. Built with React, Flask, and Groq API, the application allows users to upload documents, generate quizzes with adjustable difficulty levels and question counts, and instantly evaluate their performance through a modern and responsive interface.
+
+## Screenshots
+
+Check the ScreenShots folder to view the application UI and outputs.
